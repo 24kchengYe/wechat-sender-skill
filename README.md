@@ -1,3 +1,4 @@
+\![Visitors](https://visitor-badge.laobi.icu/badge?page_id=24kchengYe.wechat-sender-skill)
 # WeChat Desktop Message Sender
 
 A Claude Code skill that automates sending messages through the WeChat (微信) desktop client on Windows.
